@@ -102,11 +102,11 @@
 
     <TextView
         android:id="@+id/textView25"
-        android:layout_width="0dp"
-        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:layout_height="136dp"
         android:padding="20dp"
         android:text="@string/Starting_text"
-        android:textSize="18sp"
+        android:textSize="12sp"
         app:layout_constraintBottom_toTopOf="@+id/cardView2"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
